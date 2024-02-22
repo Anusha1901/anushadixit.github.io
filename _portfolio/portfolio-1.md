@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Fraud Detection"
+excerpt: "Implemented a fraud detection system for financial transactions using machine learning. Successfully identified and flagged potentially fraudulent transactions, contributing to the security of financial systems.
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+More : [Fraud Detection on GitHub](https://github.com/Anusha1901/fraud_detection)
+ 
